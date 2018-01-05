@@ -3,6 +3,7 @@
 ### 一、写在最前面
 
 健身计划fork自 *[hoosin](https://github.com/hoosin)* 的 [EveryDaySport](https://github.com/hoosin/EveryDaySport)。
+
 EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
 ### 二、为什么建立这个计划
