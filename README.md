@@ -1,7 +1,8 @@
-## 天天锻炼计划
+## 健身计划
 
 ### 一、写在最前面
 
+健身计划fork自 *[hoosin](https://github.com/hoosin)* 的 [EveryDaySport](https://github.com/hoosin/EveryDaySport)。
 EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
 ### 二、为什么建立这个计划
@@ -16,7 +17,7 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 
 看完以上你有啥感想？
 
-我有切身经历，曾经有过一段时间，长时间不运动，腰椎连续痛了1年。这种感觉简直太糟糕，由此带来一些列恶性循环，每天下班不想动，肥胖啤酒肚、各种指数超标、各种不和谐（你懂的），每天醒来对着镜子，天呐这哪是自己？！Stop！于是就在今年，我决定了每天锻炼的计划，恢复了正常的体格。
+我有切身经历，曾经有过一段时间，长时间不运动，腰椎连续痛了1年。这种感觉简直太糟糕，由此带来一些列恶性循环，每天下班不想动，总是感觉累、晚上熬夜不想睡、早上不愿醒、精神萎靡不振、对什么都没兴趣、就喜欢宅在家里，每天醒来对着镜子，天呐这哪是自己？！Stop！于是从去年，我断断续续开始了健身，但由于没有计划，也没有持续性，效果不佳，从今年开始，我决定坚持一个每天锻炼的计划，争取恢复正常的体格。
 
 所以，我希望有以上困惑，或者很少锻炼的程序员，改变现状，工作再忙也要抽时间健身，身体健康才是最重要的！
 
@@ -26,7 +27,7 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 
 ### 五、记录方法
 
-* 参考[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
+* 文本编辑方法参考[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 * 签到表 [>入口<](/table)
 * 不想 `fork` ,你可以 `Star` 
 
